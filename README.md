@@ -3,6 +3,7 @@
 Lista de meetups voltados para desenvolvimento web no Brasil.
 
 * [Rio Grande do Sul](#rio-grande-do-sul)
+* [Santa Catarina](#santa-catarina) 
 * [São Paulo](#sao-paulo) 
 
 ----
@@ -12,6 +13,12 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 *Meetups sobre desenvolvimento web no estado do Rio Grande do Sul.*
 
 * [FEMUG-RS](http://www.meetup.com/FEMUG-RS/) - Meetup sobre frontend organizado por [Jean Carlo Emer](https://twitter.com/jcemer)
+
+## Santa Catarina
+
+*Meetups sobre desenvolvimento web no estado de Santa Catarina.*
+
+* [Floripa Devs Meetup](http://floripajs.org/) - Meetup sobre desenvolvimento organizado por um bando de geeks [FloripaJS](https://twitter.com/FloripaJS)
 
 ## São Paulo
 
