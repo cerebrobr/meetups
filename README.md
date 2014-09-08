@@ -1,10 +1,11 @@
-# Meetups
+﻿# Meetups
 
 Lista de meetups voltados para desenvolvimento web no Brasil.
 
 * [Rio Grande do Sul](#rio-grande-do-sul)
 * [Santa Catarina](#santa-catarina) 
-* [São Paulo](#sao-paulo) 
+* [São Paulo](#sao-paulo)
+* [Minas Gerais](#minas-gerais)
 
 ----
 
@@ -29,3 +30,9 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 * [FEMUG-SP](http://femug.com/cgi-bin/mailman/listinfo/sp) - Meetup sobre frontend organizado por [Daniel Filho](https://twitter.com/danielfilho)
 * [NodeBR - São Paulo](http://www.meetup.com/NodeBR-Sao-Paulo/) - Meetup sobre Node.js organizado por [Allan Hoffmeister](https://twitter.com/alan_hoff)
 * [PHPSP](http://www.meetup.com/php-sp/) - Meetup sobre PHP organizado por [Anderson Casimiro](https://twitter.com/duodraco)
+
+## Minas Gerais
+
+*Meetups sobre desenvolvimento web no estado do Rio Grande do Sul.*
+
+* [UX - Belo Horizonte](http://www.meetup.com/UX-Belo-Horizonte/) - Meetup sobre UX organizado por [Pedro Marques](https://twitter.com/pedro_designer/)
