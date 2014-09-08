@@ -3,7 +3,7 @@
 Lista de meetups voltados para desenvolvimento web no Brasil.
 
 * [Rio Grande do Sul](#rio-grande-do-sul)
-* [São Paulo](#sao-paulo)
+* [São Paulo](#sao-paulo) 
 
 ----
 
