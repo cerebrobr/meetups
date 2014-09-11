@@ -4,7 +4,7 @@ Lista de meetups voltados para desenvolvimento web no Brasil. Abaixo segue a lis
 
 * [Rio de Janeiro](cidades/rio-de-janeiro.md)
 
-#Como Contribuir
+###Como Contribuir
 
 > Acompanhe os passos para a contribuição do repositório.
 
@@ -18,4 +18,4 @@ Lista de meetups voltados para desenvolvimento web no Brasil. Abaixo segue a lis
 
 > OBS: É importante manter um padrão de commits para a organização do repositório.
 
-## Lisence [MIT](http://opensource.org/licenses/MIT)
+### Lisence [MIT](http://opensource.org/licenses/MIT)
