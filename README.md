@@ -1,49 +1,21 @@
 # Meetups
 
-Lista de meetups voltados para desenvolvimento web no Brasil.
+Lista de meetups voltados para desenvolvimento web no Brasil. Abaixo segue a listagem da sua cidade e de cidades vizinhas que realizarão meetups mensalmente.
 
-* [Rio de Janeiro](#rio-de-janeiro)
-* [Rio Grande do Sul](#rio-grande-do-sul)
-* [Santa Catarina](#santa-catarina) 
-* [São Paulo](#sao-paulo)
-* [Minas Gerais](#minas-gerais)
+* [Rio de Janeiro](cidades/rio-de-janeiro.md)
 
-----
+#Como Contribuir
 
-## Rio de Janeiro
+> Acompanhe os passos para a contribuição do repositório.
 
-*Meetups sobre Desenvolvimento Front End em geral no Rio de Janeiro.*
+1 - Fork o repositório
 
-* [RioJS](http://riojs.org/) - Meetup sobre frontend organizado por [Davidson Fellipe](https://twitter.com/davidsonfellipe) e [Leo Balter](https://twitter.com/leobalter)
-* [NiteroiJS]() - Meetup de desenvovedores frontend organizado por [soapdog](https://twitter.com/soapdog)
+2 - Contribua com os dados do meetup
 
-## Rio Grande do Sul
+3 - Respeite a ordem alfabética da listagem
 
-*Meetups sobre desenvolvimento web no estado do Rio Grande do Sul.*
+4 - Dê o seu Pull Request
 
-* [FEMUG-RS](http://www.meetup.com/FEMUG-RS/) - Meetup sobre frontend organizado por [Jean Carlo Emer](https://twitter.com/jcemer)
-* [MongoDB-RS](http://www.meetup.com/Rio-Grande-do-Sul-MongoDB-User-Group/) - Meetup sobre MongoDB organizado por [Ricardo Negri](https://twitter.com/riconegri) e [Matheus Caruccio](https://twitter.com/MateusCaruccio)
+> OBS: É importante manter um padrão de commits para a organização do repositório.
 
-## Santa Catarina
-
-*Meetups sobre desenvolvimento web no estado de Santa Catarina.*
-
-* [Floripa Devs Meetup](http://floripajs.org/) - Meetup sobre desenvolvimento organizado por um bando de geeks [FloripaJS](https://twitter.com/FloripaJS)
-
-## São Paulo
-
-*Meetups sobre desenvolvimento web no estado de São Paulo.*
-
-* [AngularJS - São Paulo](http://www.meetup.com/AngularJS-Sao-Paulo/) - Meetup sobre AngularJS organizado por [Ciro Nunes](https://twitter.com/cironunesdev) e [Henrique Dubugras](https://twitter.com/hdubugras)
-* [CSS - São Paulo](http://www.meetup.com/CSS-SP/) - Meetup sobre CSS organizado por [Raphael Fabeni](https://twitter.com/raphaelfabeni) e [Felipe Fialho](https://twitter.com/LFeh)
-* [DevInterior - Ribeirão Preto](http://www.meetup.com/devinterior/) - Meetup sobre desenvolvimento em geral organizado por [Caio Tarifa](https://twitter.com/caiotarifa)
-* [FDG - Interior](http://www.meetup.com/fdginterior) - Meetup sobre desenvolvimento Front-End em geral. Organizado por [Christian Freitas](https://twitter.com/chrfreitas) e [Douglas Oliveira](https://twitter.com/doidz)
-* [FEMUG-SP](http://femug.com/cgi-bin/mailman/listinfo/sp) - Meetup sobre frontend organizado por [Daniel Filho](https://twitter.com/danielfilho)
-* [NodeBR - São Paulo](http://www.meetup.com/NodeBR-Sao-Paulo/) - Meetup sobre Node.js organizado por [Allan Hoffmeister](https://twitter.com/alan_hoff)
-* [PHPSP](http://www.meetup.com/php-sp/) - Meetup sobre PHP organizado por [Anderson Casimiro](https://twitter.com/duodraco)
-
-## Minas Gerais
-
-*Meetups sobre desenvolvimento web no estado do Rio Grande do Sul.*
-
-* [UX - Belo Horizonte](http://www.meetup.com/UX-Belo-Horizonte/) - Meetup sobre UX organizado por [Pedro Marques](https://twitter.com/pedro_designer/)
+## Lisence [MIT](http://opensource.org/licenses/MIT)
