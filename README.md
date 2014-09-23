@@ -2,7 +2,12 @@
 
 Lista de meetups voltados para desenvolvimento web no Brasil. Abaixo segue a listagem da sua cidade e de cidades vizinhas que realizarão meetups mensalmente.
 
-* [Rio de Janeiro](cidades/rio-de-janeiro.md)
+* [Pernambuco](regiao/pernambuco.md)
+* [Rio Grande do Sul](regiao/rio-grande-do-sul.md)
+* [Santa Catarina](regiao/santa-catarina.md)
+* [São Paulo](regiao/sao-paulo.md)
+* [Minas Gerais](regiao/minas-gerais.md)
+* [Rio de Janeiro](regiao/rio-de-janeiro.md)
 
 ###Como Contribuir
 
@@ -12,7 +17,7 @@ Lista de meetups voltados para desenvolvimento web no Brasil. Abaixo segue a lis
 
 2 - Contribua com os dados do meetup
 
-3 - Respeite a ordem alfabética da listagem
+3 - A ordem da listagem segue o conceito de fila
 
 4 - Dê o seu Pull Request
 
