@@ -47,3 +47,4 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 *Meetups sobre desenvolvimento web no estado do Rio Grande do Sul.*
 
 * [UX - Belo Horizonte](http://www.meetup.com/UX-Belo-Horizonte/) - Meetup sobre UX organizado por [Pedro Marques](https://twitter.com/pedro_designer/)
+* [NodeBR](http://www.meetup.com/NodeBR-Minas-Gerais/) - Meetup sobre Node.js organizado por [Beto Muniz](https://twitter.com/obetomuniz/)
