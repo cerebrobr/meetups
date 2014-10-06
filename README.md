@@ -2,13 +2,19 @@
 
 Lista de meetups voltados para desenvolvimento web no Brasil.
 
+* [Minas Gerais](#minas-gerais)
 * [Pernambuco](#pernambuco)
 * [Rio Grande do Sul](#rio-grande-do-sul)
-* [Santa Catarina](#santa-catarina) 
+* [Santa Catarina](#santa-catarina)
 * [São Paulo](#sao-paulo)
-* [Minas Gerais](#minas-gerais)
 
 ----
+## Minas Gerais
+
+*Meetups sobre desenvolvimento web no estado do Rio Grande do Sul.*
+
+* [UX - Belo Horizonte](http://www.meetup.com/UX-Belo-Horizonte/) - Meetup sobre UX organizado por [Pedro Marques](https://twitter.com/pedro_designer/)
+
 ## Pernambuco
 
 *Meetups sobre desenvolvimento web no estado de Pernambuco.*
@@ -41,9 +47,3 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 * [NodeBR - São Paulo](http://www.meetup.com/NodeBR-Sao-Paulo/) - Meetup sobre Node.js organizado por [Allan Hoffmeister](https://twitter.com/alan_hoff)
 * [PHPSP](http://www.meetup.com/php-sp/) - Meetup sobre PHP organizado por [Anderson Casimiro](https://twitter.com/duodraco)
 * [Web Performance SP](http://www.meetup.com/Web-Performance-SP) - Meetup sobre performance organizado por Alex Soares
-
-## Minas Gerais
-
-*Meetups sobre desenvolvimento web no estado do Rio Grande do Sul.*
-
-* [UX - Belo Horizonte](http://www.meetup.com/UX-Belo-Horizonte/) - Meetup sobre UX organizado por [Pedro Marques](https://twitter.com/pedro_designer/)
