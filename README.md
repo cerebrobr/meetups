@@ -4,6 +4,7 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 
 * [Minas Gerais](#minas-gerais)
 * [Pernambuco](#pernambuco)
+* [Rio de Janeiro](#rio-de-janeiro)
 * [Rio Grande do Sul](#rio-grande-do-sul)
 * [Santa Catarina](#santa-catarina)
 * [São Paulo](#sao-paulo)
@@ -20,6 +21,14 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 *Meetups sobre desenvolvimento web no estado de Pernambuco.*
 
 * [Frevo-on-Rails](http://frevoonrails.com.br/) - Meetup sobre Ruby / Rails organizado pelo Grupo de desenvolvedores de Ruby / Rails de Pernambuco
+
+## Rio de Janeiro
+
+*Meetups sobre desenvolvimento web no estado do Rio de Janeiro.*
+
+* [RioJS](http://riojs.org/) - Meetup sobre Javascript.
+* [Ruby on Rio](http://rubyonrio.org/) - Meetup sobre Ruby on Rails.
+* [Horaextra](http://horaextra.org/) - Meetup de desenvolvedores para troca de ideias sobre diversas tecnologias.
 
 ## Rio Grande do Sul
 
