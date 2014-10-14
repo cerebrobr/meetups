@@ -10,6 +10,12 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 * [São Paulo](#sao-paulo)
 
 ----
+## Bahia
+
+*Meetups sobre desenvolvimento web no estado da Bahia.*
+
+* [GDG Salvador](http://www.meetup.com/GDG-Salvador/) - Meetup sobre tecnologias providas pelo Google por [Wilson Mendes](https://twitter.com/willmendesneto) e [Marlon Carvalho](https://twitter.com/marlonscarvalho)
+
 ## Minas Gerais
 
 *Meetups sobre desenvolvimento web no estado de Minas Gerais.*
