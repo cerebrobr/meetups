@@ -15,6 +15,10 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 *Meetups sobre desenvolvimento web no estado de Minas Gerais.*
 
 * [UX - Belo Horizonte](http://www.meetup.com/UX-Belo-Horizonte/) - Meetup sobre UX organizado por [Pedro Marques](https://twitter.com/pedro_designer/)
+* [GDG - Belo Horizonte](http://www.meetup.com/GDG-BH/) - Meetup sobre Google Developers organizado por [Ana Paula Gomes](http://twitter.com/AnaPaulaGomess/)
+* [AngularJS BH](http://www.meetup.com/AngularJS-BH/) - Meetup sobre Angular JS organizado por [Ciro Nunes](http://twitter.com/cironunesdev/)
+* [Ember.js](http://www.meetup.com/Ember-BH/) - Meetup sobre Ember JS organizado por [Fabrício Tavares](https://twitter.com/fabriciotav)
+* [PHPMG](http://www.meetup.com/PHP-MG/) - Meetup sobre PHP organizado por [Pedro Chaves](https://twitter.com/pedrochaves)
 
 ## Pernambuco
 
