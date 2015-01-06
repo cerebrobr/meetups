@@ -2,6 +2,7 @@
 
 Lista de meetups voltados para desenvolvimento web no Brasil.
 
+* [Ceará](#ceara)
 * [Minas Gerais](#minas-gerais)
 * [Pernambuco](#pernambuco)
 * [Rio de Janeiro](#rio-de-janeiro)
@@ -10,6 +11,14 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 * [São Paulo](#sao-paulo)
 
 ----
+## Ceará
+
+*Meetups sobre desenvolvimento web no estado do ceará.*
+
+* [CeJS](http://cejs.com.br/) - Meetup sobre Javascript organizado por [Christiano Milfont](http://twitter.com/cmilfont) e [Henrique Gogó](https://twitter.com/henriquegogo)
+* [Pylestra](www.pylestras.org/) - Meetup sobre Python organizado pelo [Python User Groups - PUGCE](https://github.com/pugce)
+
+
 ## Minas Gerais
 
 *Meetups sobre desenvolvimento web no estado de Minas Gerais.*
