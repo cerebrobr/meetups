@@ -56,3 +56,4 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 * [NodeBR - São Paulo](http://www.meetup.com/NodeBR-Sao-Paulo/) - Meetup sobre Node.js organizado por [Allan Hoffmeister](https://twitter.com/alan_hoff)
 * [PHPSP](http://www.meetup.com/php-sp/) - Meetup sobre PHP organizado por [Anderson Casimiro](https://twitter.com/duodraco)
 * [Web Performance SP](http://www.meetup.com/Web-Performance-SP) - Meetup sobre performance organizado por Alex Soares
+* [santos.frontend()](meetup.com/Santos-Front-end/) - Meetup sobre front-end organizado por [Hugo Bessa](https://github.com/hugobessaa) e [William Costa](https://github.com/williamcosta)
