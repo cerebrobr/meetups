@@ -76,4 +76,4 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 * [PHPSP](http://www.meetup.com/php-sp/) - Meetup sobre PHP organizado por [Anderson Casimiro](https://twitter.com/duodraco)
 * [Web Performance SP](http://www.meetup.com/Web-Performance-SP) - Meetup sobre performance organizado por Alex Soares
 * [WordPress - São Paulo](http://www.meetup.com/wpsampa/) - Meetup sobre WordPress organizado por [Claudio Sanches](https://twitter.com/claudiosmweb), [Deblyn Padro](https://www.facebook.com/deblynprado) e [Rafael Funchal](https://twitter.com/RafaelFunchal)
-* [santos.frontend()](meetup.com/Santos-Front-end/) - Meetup sobre front-end organizado por [Hugo Bessa](https://github.com/hugobessaa) e [William Costa](https://github.com/williamcosta)
+* [santos.frontend()](http://www.meetup.com/Santos-Front-end/) - Meetup sobre front-end organizado por [Hugo Bessa](https://github.com/hugobessaa) e [William Costa](https://github.com/williamcosta)
