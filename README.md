@@ -4,12 +4,12 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 
 * [Bahia](#bahia)
 * [Minas Gerais](#minas-gerais)
-* [Paraná](#parana)
+* [Paraná](#paraná)
 * [Pernambuco](#pernambuco)
 * [Rio de Janeiro](#rio-de-janeiro)
 * [Rio Grande do Sul](#rio-grande-do-sul)
 * [Santa Catarina](#santa-catarina)
-* [São Paulo](#sao-paulo)
+* [São Paulo](#são-paulo)
 
 ----
 ## Bahia
