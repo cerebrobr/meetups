@@ -4,12 +4,12 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 
 * [Bahia](#bahia)
 * [Minas Gerais](#minas-gerais)
-* [Paraná](#parana)
+* [Paraná](#paraná)
 * [Pernambuco](#pernambuco)
 * [Rio de Janeiro](#rio-de-janeiro)
 * [Rio Grande do Sul](#rio-grande-do-sul)
 * [Santa Catarina](#santa-catarina)
-* [São Paulo](#sao-paulo)
+* [São Paulo](#são-paulo)
 
 ----
 ## Bahia
@@ -25,6 +25,7 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 
 * [UX - Belo Horizonte](http://www.meetup.com/UX-Belo-Horizonte/) - Meetup sobre UX organizado por [Pedro Marques](https://twitter.com/pedro_designer/)
 * [WordPress - Belo Horizonte](http://www.meetup.com/WordPressBeloHorizonte) - Meetup sobre WordPress organizado por [https://twitter.com/valeriosza]
+* [devbeers - Belo Horizonte](http://www.meetup.com/devbeers-Belo-Horizonte/) - Meetup sobre desenvolvimento em geral organizado por [Beto Muniz](https://twitter.com/obetomuniz), [Luiz Mendes](https://twitter.com/lurimendes) e [Bruno Pulis](https://twitter.com/brunopulis)
 
 ## Paraná
 
@@ -78,3 +79,4 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 * [WordPress - São Paulo](http://www.meetup.com/wpsampa/) - Meetup sobre WordPress organizado por [Claudio Sanches](https://twitter.com/claudiosmweb), [Deblyn Padro](https://www.facebook.com/deblynprado) e [Rafael Funchal](https://twitter.com/RafaelFunchal)
 * [santos.frontend()](http://www.meetup.com/Santos-Front-end/) - Meetup sobre front-end organizado por [Hugo Bessa](https://github.com/hugobessaa) e [William Costa](https://github.com/williamcosta)
 * [santos.backend()](http://www.meetup.com/santos-backend/) - Meetup sobre back-end organizado por [Nicholas Eduardo](https://github.com/nicholasess)
+* [devbeers - São Paulo](http://www.meetup.com/devbeers-Sao-Paulo/) - Meetup sobre desenvolvimento em geral organizado por [Heitor Tashiro Sergent](https://twitter.com/heitortsergent), [Thamara Hessel](https://twitter.com/ThamaraHessel), [Éverton Ribeiro](https://twitter.com/nuxlli) e [Luis Cipriani](https://twitter.com/lfcipriani)
