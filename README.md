@@ -1,8 +1,8 @@
 # Meetups
 
-Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso [guia de contribuição](https://github.com/cerebrobr/meetups/blob/master/CONTRIBUTING.md)
-
 Lista de meetups voltados para desenvolvimento web no Brasil.
+
+Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso [guia de contribuição](https://github.com/cerebrobr/meetups/blob/master/CONTRIBUTING.md)
 
 * [Bahia](#bahia)
 * [Minas Gerais](#minas-gerais)
