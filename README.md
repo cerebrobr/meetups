@@ -27,6 +27,8 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [devbeers - Belo Horizonte](http://www.meetup.com/devbeers-Belo-Horizonte/) - Meetup sobre desenvolvimento em geral organizado por [Beto Muniz](https://twitter.com/obetomuniz), [Luiz Mendes](https://twitter.com/lurimendes) e [Bruno Pulis](https://twitter.com/brunopulis)
 
+* [NodeBR - Belo Horizonte](http://www.meetup.com/NodeBR-Minas-Gerais/) - Meetup sobre Node.js organizado por [Alan Hoffmeister](https://twitter.com/alan_hoff) e [Beto Muniz](https://twitter.com/obetomuniz/)
+
 * [UX - Belo Horizonte](http://www.meetup.com/UX-Belo-Horizonte/) - Meetup sobre UX organizado por [Pedro Marques](https://twitter.com/pedro_designer/)
 
 * [WordPress - Belo Horizonte](http://www.meetup.com/WordPressBeloHorizonte) - Meetup sobre WordPress organizado por [https://twitter.com/valeriosza]
