@@ -37,6 +37,8 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [NodeBR - Belo Horizonte](http://www.meetup.com/NodeBR-Minas-Gerais/) - Meetup sobre Node.js organizado por [Alan Hoffmeister](https://twitter.com/alan_hoff) e [Beto Muniz](https://twitter.com/obetomuniz/)
 
+* [PHP - Belo Horizonte](http://www.meetup.com/PHP-MG/) - Meetup sobre PHP organizado por [Pedro Chaves](https://twitter.com/pedrochaves)
+
 * [UX - Belo Horizonte](http://www.meetup.com/UX-Belo-Horizonte/) - Meetup sobre UX organizado por [Pedro Marques](https://twitter.com/pedro_designer/)
 
 * [WordPress - Belo Horizonte](http://www.meetup.com/WordPressBeloHorizonte) - Meetup sobre WordPress organizado por [https://twitter.com/valeriosza]
