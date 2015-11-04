@@ -18,6 +18,8 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 *Meetups sobre desenvolvimento web no estado da Bahia.*
 
+* [GDG - Salvador](http://www.meetup.com/GDG-Salvador/) - Meetup sobre tecnologias providas pelo Google por [Marlon Carvalho](https://twitter.com/marlonscarvalho) e [Wilson Mendes](https://twitter.com/willmendesneto)
+
 * [WordPress - Salvador](http://meetup.com/wpsalvador) - Meetup sobre WordPress organizado por [Leo Baiano](https://twitter.com/leobaiano)
 
 
