@@ -31,7 +31,9 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [devbeers - Belo Horizonte](http://www.meetup.com/devbeers-Belo-Horizonte/) - Meetup sobre desenvolvimento em geral organizado por [Beto Muniz](https://twitter.com/obetomuniz), [Luiz Mendes](https://twitter.com/lurimendes) e [Bruno Pulis](https://twitter.com/brunopulis)
 
-* [Ember.js - Belo Horizonte](http://www.meetup.com/Ember-BH/) - Meetup sobre Ember JS organizado por [Fabrício Tavares](https://twitter.com/fabriciotav)
+* [Ember.js - Belo Horizonte](http://www.meetup.com/Ember-BH/) - Meetup sobre Ember.js organizado por [Fabrício Tavares](https://twitter.com/fabriciotav)
+
+* [GDG - Belo Horizonte](http://www.meetup.com/GDG-BH/) - Meetup sobre Google Developers organizado por [Ana Paula Gomes](http://twitter.com/AnaPaulaGomess/)
 
 * [NodeBR - Belo Horizonte](http://www.meetup.com/NodeBR-Minas-Gerais/) - Meetup sobre Node.js organizado por [Alan Hoffmeister](https://twitter.com/alan_hoff) e [Beto Muniz](https://twitter.com/obetomuniz/)
 
