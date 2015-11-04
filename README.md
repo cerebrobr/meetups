@@ -5,6 +5,7 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso [guia de contribuição](https://github.com/cerebrobr/meetups/blob/master/CONTRIBUTING.md)
 
 * [Bahia](#bahia)
+* [Ceará](#ceará)
 * [Minas Gerais](#minas-gerais)
 * [Paraná](#paraná)
 * [Pernambuco](#pernambuco)
@@ -22,6 +23,11 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [WordPress - Salvador](http://meetup.com/wpsalvador) - Meetup sobre WordPress organizado por [Leo Baiano](https://twitter.com/leobaiano)
 
+## Ceará
+
+*Meetups sobre desenvolvimento web no estado do Ceará.*
+
+* [NodeJS - Fortaleza](http://www.meetup.com/nug-ce/) - Meetup sobre NodeJS organizado por [Cícero Viana](https://twitter.com/cicerohen/)
 
 ## Minas Gerais
 
