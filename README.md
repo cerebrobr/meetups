@@ -43,6 +43,8 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [Frevo-on-Rails](http://frevoonrails.com.br/) - Meetup sobre Ruby / Rails organizado pelo Grupo de desenvolvedores de Ruby / Rails de Pernambuco
 
+* [GeekNight-Recife](http://geeknightrecife.github.io/) - Meetups mensais sobre diversos assuntos na área de T.I
+
 ## Rio de Janeiro
 
 *Meetups sobre desenvolvimento web no estado do Rio de Janeiro.*
