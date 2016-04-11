@@ -5,6 +5,7 @@ Lista de meetups voltados para desenvolvimento web no Brasil.
 Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso [guia de contribuição](https://github.com/cerebrobr/meetups/blob/master/CONTRIBUTING.md)
 
 * [Bahia](#bahia)
+* [Ceará](#ceará)
 * [Minas Gerais](#minas-gerais)
 * [Paraná](#paraná)
 * [Pernambuco](#pernambuco)
@@ -18,14 +19,31 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 *Meetups sobre desenvolvimento web no estado da Bahia.*
 
+* [GDG - Salvador](http://www.meetup.com/GDG-Salvador/) - Meetup sobre tecnologias providas pelo Google por [Marlon Carvalho](https://twitter.com/marlonscarvalho) e [Wilson Mendes](https://twitter.com/willmendesneto)
+
 * [WordPress - Salvador](http://meetup.com/wpsalvador) - Meetup sobre WordPress organizado por [Leo Baiano](https://twitter.com/leobaiano)
 
+## Ceará
+
+*Meetups sobre desenvolvimento web no estado do Ceará.*
+
+* [NodeJS - Fortaleza](http://www.meetup.com/nug-ce/) - Meetup sobre NodeJS organizado por [Cícero Viana](https://twitter.com/cicerohen/)
 
 ## Minas Gerais
 
 *Meetups sobre desenvolvimento web no estado de Minas Gerais.*
 
+* [AngularJS - Belo Horizonte](http://www.meetup.com/AngularJS-BH/) - Meetup sobre AngularJS organizado por [Ciro Nunes](http://twitter.com/cironunesdev/)
+
 * [devbeers - Belo Horizonte](http://www.meetup.com/devbeers-Belo-Horizonte/) - Meetup sobre desenvolvimento em geral organizado por [Beto Muniz](https://twitter.com/obetomuniz), [Luiz Mendes](https://twitter.com/lurimendes) e [Bruno Pulis](https://twitter.com/brunopulis)
+
+* [Ember.js - Belo Horizonte](http://www.meetup.com/Ember-BH/) - Meetup sobre Ember.js organizado por [Fabrício Tavares](https://twitter.com/fabriciotav)
+
+* [GDG - Belo Horizonte](http://www.meetup.com/GDG-BH/) - Meetup sobre Google Developers organizado por [Ana Paula Gomes](http://twitter.com/AnaPaulaGomess/)
+
+* [NodeBR - Belo Horizonte](http://www.meetup.com/NodeBR-Minas-Gerais/) - Meetup sobre Node.js organizado por [Alan Hoffmeister](https://twitter.com/alan_hoff) e [Beto Muniz](https://twitter.com/obetomuniz/)
+
+* [PHP - Belo Horizonte](http://www.meetup.com/PHP-MG/) - Meetup sobre PHP organizado por [Pedro Chaves](https://twitter.com/pedrochaves)
 
 * [UX - Belo Horizonte](http://www.meetup.com/UX-Belo-Horizonte/) - Meetup sobre UX organizado por [Pedro Marques](https://twitter.com/pedro_designer/)
 
