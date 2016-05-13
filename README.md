@@ -99,6 +99,8 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [AngularJS - São Paulo](http://www.meetup.com/AngularJS-Sao-Paulo/) - Meetup sobre AngularJS organizado por [Ciro Nunes](https://twitter.com/cironunesdev) e [Henrique Dubugras](https://twitter.com/hdubugras)
 
+* [BeerJS - São José dos Campos](http://www.meetup.com/pt-BR/Beer-js-SJC/) - Meetup sobre JavaScript organizado por [Danilo Vaz](https://twitter.com/_danilovaz), [Henrique Liberato](https://github.com/hliberato) e [Rodrigo Agostinho](https://twitter.com/rodrigoagostin)
+
 * [CSS - São Paulo](http://www.meetup.com/CSS-SP/) - Meetup sobre CSS organizado por [Raphael Fabeni](https://twitter.com/raphaelfabeni) e [Felipe Fialho](https://twitter.com/LFeh)
 
 * [devbeers - São Paulo](http://www.meetup.com/devbeers-Sao-Paulo/) - Meetup sobre desenvolvimento em geral organizado por [Heitor Tashiro Sergent](https://twitter.com/heitortsergent), [Thamara Hessel](https://twitter.com/ThamaraHessel), [Éverton Ribeiro](https://twitter.com/nuxlli) e [Luis Cipriani](https://twitter.com/lfcipriani)
