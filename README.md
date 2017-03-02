@@ -78,6 +78,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 - [DevInterior - Ribeirão Preto](http://www.meetup.com/devinterior/) - Meetup sobre desenvolvimento em geral organizado por [Caio Tarifa](https://twitter.com/caiotarifa)
 - [FDG - Interior](http://www.meetup.com/fdginterior) - Meetup sobre desenvolvimento Front-End em geral. Organizado por [Christian Freitas](https://twitter.com/chrfreitas) e [Douglas Oliveira](https://twitter.com/doidz)
 - [FEMUG-SP](http://femug.com/cgi-bin/mailman/listinfo/sp) - Meetup sobre frontend organizado por [Daniel Filho](https://twitter.com/danielfilho)
+- [HTML-SP](https://www.meetup.com/pt-BR/html-sp/) - Meetup sobre HTML organizado por Renato Augusto, [Eduardo Matos](https://github.com/eduardojmatos) e Rafael Ventura 
 - [Meteor - São Paulo](http://www.meetup.com/Meteor-Sao-Paulo/) - Meetup sobre Meteor organizado por [Leonardo Grijó](http://twitter.com/leonardogrijo)
 - [NodeBR - São Paulo](http://www.meetup.com/NodeBR-Sao-Paulo/) - Meetup sobre Node.js organizado por [Allan Hoffmeister](https://twitter.com/alan_hoff)
 - [PHPSP](http://www.meetup.com/php-sp/) - Meetup sobre PHP organizado por [Anderson Casimiro](https://twitter.com/duodraco)
