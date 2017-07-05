@@ -56,7 +56,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 - [WordPress - Rio de Janeiro](http://www.meetup.com/wp-rio) - Meetup WordPress organizado por [Guga Alves](https://twitter.com/GugaAlves) e [Cadu Castro](https://twitter.com/castroalves)
 - [Google Develoers Group Rio de Janeiro](https://www.meetup.com/pt-BR/Google-Developer-Group-GDG-Rio-de-Janeiro/) - Comunidade que apoia grupo de desenvolvedores da região.
 - [Google Developers Group Duque de Caxias](https://www.meetup.com/pt-BR/GDGDuqueDeCaxias/) - Comunidade que apoia grupo de desenvolvedores da região.
-- [Women Techmakers](https://wtmrio.github.io) - Programa do Google que procura apoiar e incentivar mulheres em tecnologia.
+- [Women Techmakers](https://wtmrio.github.io/evento) - Programa do Google que procura apoiar e incentivar mulheres em tecnologia.
 
 
 ## Rio Grande do Sul
